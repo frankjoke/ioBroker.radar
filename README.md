@@ -1,6 +1,6 @@
 ![Logo](admin/radar.png)
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.radar.svg)](https://www.npmjs.com/package/iobroker.radar)
+![Number of Installations](http://iobroker.live/badges/radar-installed.svg) ![Number of Installations](http://iobroker.live/badges/radar-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.radar.svg)](https://www.npmjs.com/package/iobroker.radar)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.radar.svg)](https://www.npmjs.com/package/iobroker.radar)
 **Tests:** Linux/Mac: [![Travis-CI](http://img.shields.io/travis/frankjoke/ioBroker.radar/master.svg)](https://travis-ci.org/frankjoke/ioBroker.radar)
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/frankjoke/ioBroker.radar?branch=master&svg=true)](https://ci.appveyor.com/project/frankjoke/ioBroker-radar/)
