@@ -1,7 +1,7 @@
 {
   "name": "iobroker.radar",
   "description": "Radar for IP and Bluetooth devices, it also can scan HP printers ink and ECB currency to EUR",
-  "version": "1.2.1" ,
+  "version": "1.2.1",
   "author": "frankjoke <frankjoke@hotmail.com>",
   "contributors": [
     "frankjoke <frankjoke@hotmail.com>"
@@ -36,7 +36,8 @@
   },
   "dependencies": {
     "ping": "^0.2.0",
-    "xml2js": "^0.4.17"
+    "xml2js": "^0.4.17",
+    "@iobroker/adapter-core": "^1.0.3"
   },
   "optionalDependencies": {
     "@abandonware/noble": "^1.9.2-1",

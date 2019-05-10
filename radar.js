@@ -7,7 +7,7 @@
 /* eslint-env node,es6 */
 // jshint node:true, esversion:6,  undef:true, unused:true, bitwise:false, -W069
 "use strict";
-const utils = require(__dirname + '/lib/utils'); // Get common adapter utils
+const utils = require('@iobroker/adapter-core'); // Get common adapter utils
 const adapter = utils.Adapter('radar');
 const btbindir = __dirname + '\\bin\\bluetoothview\\';
 
